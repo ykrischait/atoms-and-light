@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Atoms and Light"
+  site-url: https://www.atomsandlight.com
   navbar:
     left:
       - href: about.qmd
