@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Atoms and Light"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    grid:
+      body-width: 1100px
+      margin-width: 200px
+
+
+

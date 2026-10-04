@@ -1,0 +1,6 @@
+/* css styles */
+main.content p,
+main.content li {
+  text-align: justify;
+  hyphens: auto;
+}

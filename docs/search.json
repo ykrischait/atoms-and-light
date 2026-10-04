@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "",
+    "text": "I am a quantum physicist specializing in quantum technologies built on atomic physics. My experience spans across quantum computing, quantum sensing and, most recently, atom lithography. While I began as a theorist during my Masters, I realized that I am interested in making the technologies or phenomenon I studied or observed in real-life experimentally and make them useful to the public.\nIn my free time, I like to play badminton or go for a swim and spend time with my family."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "",
+    "text": "I am a quantum physicist specializing in quantum technologies built on atomic physics. My experience spans across quantum computing, quantum sensing and, most recently, atom lithography. While I began as a theorist during my Masters, I realized that I am interested in making the technologies or phenomenon I studied or observed in real-life experimentally and make them useful to the public.\nIn my free time, I like to play badminton or go for a swim and spend time with my family."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "Experience",
+    "text": "Experience\nSenior Experimental Physicist, Lace Lithography, Bergen, Norway Jan 2026 – Present\n\nConditioning of atomic beams for lithography\n\nResearch Scientist, Atomionics, Singapore Oct 2022 – Dec 2025\n\nDeployed static cold-atom gravimeters in field surveys in the USA and Australia, and handled survey operations\nBuilt and deployed a prototype miniaturised moving-base cold-atom gravimeter from scratch within 6 months, halving development time\nImproved sensor performance through microwave state preparation and improvements to the RF chain\nLed R&D on next-generation gravimeters and on mitigating phase-noise sources, for fieldable instruments in harsh environments for resource exploration\nLed development of laser subsystems based on photonic integrated circuits\nImplemented motion-mitigation strategies for cold-atom gravimeters in the field\nWorked with mechanical, electronics and software engineers to build an integrated system\n\nDoctoral Candidate, Centre for Quantum Technologies, Singapore Sept 2018 – Sept 2022 · Advisor: Asst. Prof. Loh Huanqian\n\nSet up a laser cooling and trapping lab for sodium atoms from scratch, for quantum simulation and computing with optical tweezers, as the lab’s first Ph.D. student\nDemonstrated single sodium atoms trapped in an optical tweezer\nProposed a Raman sideband cooling scheme for sodium, then designed and built its optical setup\nCarried out a theoretical study of molecular state detection by quantum logic spectroscopy\nBuilt vacuum systems and optical setups for atomic physics experiments\nDesigned and debugged electronics: 1.7 GHz RF circuits, coil drivers, and high-voltage amplifiers for fast electro-optic switching\nProgrammed the control system and experimental sequences in Python\n\nEarlier research\n\nSummer Intern, Centre for Quantum Technologies (Jul – Aug 2018): built an RF driver for a 1.7 GHz electro-optic modulator and locking electronics for a 767 nm laser\nMaster’s thesis, University of Hyderabad (Jul 2017 – May 2018, Prof. Anantha Lakshmi Pochincherla): simulations of quantum optomechanical effects at the macroscopic scale in a hybrid quantum-well cavity optomechanical system\nVisiting Student Researcher, Tata Institute of Fundamental Research (May – Jun 2017, Prof. Venu Gopal Achanta): proof-of-concept experiment enhancing electrical conductivity in organic semiconductors using surface plasmons\nStudent Intern, University of Hyderabad (May 2016, Prof. Seshubai Vummethala): prepared YBCO bulk superconductors by sintering and oxygenation\nSummer Research Fellow, Indian Institute of Technology, Mumbai (May – Jun 2015, Prof. Raghava Verma): microwave plasma chemical vapour deposition of diamond for particle-detector studies\nStudent Trainee, University of Hyderabad (May – Dec 2014, Prof. Vipin Srivastava): fractals and neural networks"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "Education",
+    "text": "Education\nPh.D. in Physics, Centre for Quantum Technologies, National University of Singapore 2018 – 2022 · GPA: 4.5/5.0\nIntegrated M.Sc. in Physics, University of Hyderabad 2013 – 2018 · GPA: 9.1/10\nSenior Secondary School, P. Obul Reddy Public School, Hyderabad 2011 – 2013 · GPA: 9.4/10\nSecondary School, Chinmaya Vidyalaya, Hyderabad 2010 – 2011 · GPA: 10/10"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "Publications",
+    "text": "Publications\n\nM.M. Aliyu, L. Zhao, X.Q. Quek, K.C. Yellapragada, H. Loh, “D1 Magic Wavelength Tweezers for Scaling Atom Arrays”, Physical Review Research (2021). doi:10.1103/PhysRevResearch.3.043059\nN. Pramanik, K.C. Yellapragada, S. Singh, P.A. Lakshmi, “Coherent Control of Fano Resonances in a Macroscopic Four-Mirror Cavity”, Physical Review A (2020). doi:10.1103/PhysRevA.101.043802\nK.C. Yellapragada, N. Pramanik, S. Singh, P.A. Lakshmi, “Optomechanical Effects in a Macroscopic Hybrid System”, Physical Review A (2018). doi:10.1103/PhysRevA.98.053822"
+  },
+  {
+    "objectID": "about.html#scholarships-and-awards",
+    "href": "about.html#scholarships-and-awards",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "Scholarships and awards",
+    "text": "Scholarships and awards\n\nSGInnovate Summation Programme Awardee, 2022 – 2023\nCentre for Quantum Technologies Ph.D. Scholarship, 2018 – 2022\nBest Project Award, Tata Institute of Fundamental Research Visiting Student Research Programme, 2017\nIndian Academy of Sciences Summer Research Fellowship, 2015"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "Skills",
+    "text": "Skills\n\nExperimental: quantum sensors, laser locking, laser cooling and optical trapping, vacuum systems, optical setups, polarisation stabilisation, chemical vapour deposition, DC sputtering, X-ray diffraction, electron-beam lithography\nElectronics: design and debugging, high-voltage and high-current circuits, RF electronics\nProgramming and software: Python, MATLAB, Mathematica, Julia, C++, FORTRAN, Autodesk EAGLE, SolidWorks, LaTeX\nMachining: lathe, drill press, milling, 3D printing\nManagement: gravity survey operations, team leadership, product and requirements analysis\nLanguages: English, Telugu, Hindi, Sanskrit"
+  },
+  {
+    "objectID": "about.html#leadership-and-engagement",
+    "href": "about.html#leadership-and-engagement",
+    "title": "Krishna Chaitanya Yellapragada",
+    "section": "Leadership and engagement",
+    "text": "Leadership and engagement\n\nSquad Lead, AMO Squad, Lace Lithography AS, Apr 2026 - Oct 2026\nCommittee Member, Quantum Young Researchers’ Association (QYRA), 2024 – 2025\nSafety Lead, Loh Lab, Centre for Quantum Technologies, 2019 – 2022\nQCamp Coordinator, Centre for Quantum Technologies, 2019\nJunior Science Club Coordinator, University of Hyderabad, 2016 – 2017\nStudent Coordinator, Recent Trends in Quantum Optics Conference, University of Hyderabad, 2016\nSports Secretary, Students’ Union, University of Hyderabad, 2013 – 2014"
+  }
+]
