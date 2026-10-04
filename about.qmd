@@ -14,7 +14,7 @@ about:
       href: https://github.com/ykrischait
     - icon: envelope
       text: Email
-      href: mailto:contactykc@pm.me
+      href: mailto:contact@atomsandlight.com
 ---
 ## About Me
 
