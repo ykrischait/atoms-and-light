@@ -18,17 +18,17 @@ about:
 ---
 ## About Me
 
-II am a quantum physicist specialising in quantum technologies built on atomic physics. My experience spans quantum computing, quantum sensing and, most recently, atom lithography. I began as a theorist during my master's, then moved to experiment because I wanted to build the phenomena I had studied and make them useful to the public.
+I am a quantum physicist specialising in quantum technologies built on atomic physics. My experience spans quantum computing, quantum sensing and, most recently, atom lithography. I began as a theorist during my master's, then moved to experiment because I wanted to build the phenomena I had studied and make them useful to the public.
 
 In my free time, I like to play badminton or go for a swim and spend time with my family. 
 
 
 ## Experience
 
-**Senior Experimental Physicist**, Lace Lithography, Bergen, Norway<br>
+**Senior Experimental Physicist**, Lace Lithography AS, Bergen, Norway<br>
 *Jan 2026 – Present*
 
-- Conditioning of atomic beams for lithography
+- Contributed towards conditioning of atomic beams for lithography
 
 **Research Scientist**, Atomionics, Singapore<br>
 *Oct 2022 – Dec 2025*
@@ -99,7 +99,7 @@ In my free time, I like to play badminton or go for a swim and spend time with m
 
 ## Leadership and engagement
 
-- Squad Lead, AMO Squad, Lace Lithography AS, Apr 2026 - Oct 2026
+- Squad Lead, Lace Lithography AS, Apr 2026 - Oct 2026
 - Committee Member, Quantum Young Researchers' Association (QYRA), 2024 – 2025
 - Safety Lead, Loh Lab, Centre for Quantum Technologies, 2019 – 2022
 - QCamp Coordinator, Centre for Quantum Technologies, 2019
