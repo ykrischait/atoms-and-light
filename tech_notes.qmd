@@ -1,0 +1,8 @@
+---
+title: "Technical Notes"
+listing:
+    contents: Technical_Notes
+    categories: true
+    type: default # or default, table, grid etc.
+    image-height: 75px
+---

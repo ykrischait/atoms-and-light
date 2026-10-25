@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Blog"
 listing:
     contents: Blog
     categories: true

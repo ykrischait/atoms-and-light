@@ -18,15 +18,39 @@ website:
         text: Home
       - href: blogs.qmd
         text: Blog
+      - href: tech_notes.qmd
+        text: Tech Notes
+      - href: AMO_Physics/index.qmd
+        text: AMO Physics
       - href: about.qmd
         text: About
 
+  sidebar:
+    - id: main-sidebar
+      style: "floating"
+      search: true
+      contents:
+        - href: index.qmd
+          text: Home
+        - href: blogs.qmd
+          text: Blog
+        - href: tech_notes.qmd
+          text: Tech Notes
+        - href: AMO_Physics/index.qmd
+          text: AMO Physics
+
+    - id: amo-sidebar
+      style: "docked"
+      search: true
+      contents:
+        - href: AMO_Physics/index.qmd
+          text: Home
 
 format:
   html:
     theme:
-      light: flatly
       dark: darkly
+      light: flatly
     mainfont: "Space Grotesk"
     include-in-header:
       text: |

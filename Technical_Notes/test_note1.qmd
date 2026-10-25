@@ -1,0 +1,98 @@
+---
+title: "Test Post 1"
+description: "Test Post to understand Quarto"
+author: "YKC"
+date: "5/22/2026"
+categories:
+  - code
+  - analysis
+code-fold: true
+jupyter: python3
+---
+
+![Atoms and Light Logo](../site_images/Logo.png){width=500px style="display: block; margin: 0 auto;"}
+
+# Introduction
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium orci nisi, vitae placerat erat faucibus non. Vivamus laoreet porttitor mollis. Praesent eget malesuada lacus, non lobortis sapien. Suspendisse potenti. Phasellus ut accumsan mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget augue a nulla hendrerit blandit. Aenean non enim vel ex feugiat dictum. Duis non nunc ut dui pellentesque rutrum.
+
+Curabitur nec efficitur mauris. Fusce tincidunt, nisi in luctus sagittis, mi ipsum accumsan est, aliquet ultricies nunc ante id est. Fusce sit amet lectus consequat, semper urna et, porttitor sapien. Nam rhoncus risus vitae est scelerisque, at faucibus enim vulputate. Nulla suscipit pulvinar dui, ut tempus est viverra eget. Aenean non maximus est. Donec nunc tortor, sodales vitae eleifend et, tristique ut eros. Quisque malesuada tellus laoreet turpis egestas, ac rutrum ipsum venenatis. Integer vitae nisl ornare, vehicula lectus et, lobortis lectus. Cras elementum tortor id purus fermentum venenatis. Nunc placerat nec nunc eget viverra. Aliquam feugiat placerat dolor, nec mollis lacus pellentesque eget. Nam rhoncus risus ut libero tristique pulvinar laoreet in magna. Integer eget lorem iaculis, condimentum tellus eu, elementum dolor.
+
+Donec id mauris non sapien condimentum tempus efficitur sit amet lectus. Pellentesque quis neque in nisi dictum lacinia vitae in diam. Ut vehicula tristique suscipit. Aliquam vel congue nibh. Proin semper nec lorem eget pulvinar. Nullam in egestas ante. Cras eu est leo. Aenean non vehicula ante. Ut scelerisque libero orci, eu aliquet lacus sagittis sit amet. Donec molestie dignissim augue et imperdiet. Maecenas interdum ornare nibh, vitae luctus ex. Donec rutrum vestibulum nulla quis ornare. Aliquam vulputate egestas purus, et consequat massa faucibus id.
+
+Nulla accumsan arcu neque, eget fermentum enim bibendum vel. Nulla at elit risus. Etiam sed mi purus. Vivamus odio massa, ultrices sed pulvinar id, iaculis quis elit. Suspendisse condimentum venenatis massa ac rhoncus. Sed eget maximus sem. Praesent ut interdum nibh, sit amet cursus massa. Etiam nec fermentum elit.
+
+Vestibulum urna lorem, fermentum eget leo vehicula, porttitor egestas turpis. Vivamus et aliquet mauris. Vivamus pretium dapibus lectus id ultricies. Mauris malesuada tortor ullamcorper libero eleifend auctor. Curabitur magna turpis, laoreet at purus in, maximus convallis tortor. Duis gravida ipsum id enim porta, at iaculis massa tincidunt. Maecenas vitae ex ornare nisi laoreet eleifend et a lorem. Suspendisse ultrices facilisis enim at dignissim. Pellentesque blandit felis non risus rutrum, vel facilisis risus viverra. Curabitur est orci, volutpat in convallis vitae, posuere fermentum lorem. In augue ipsum, eleifend ac ligula non, faucibus viverra nisi. Praesent lacinia non nisl quis sollicitudin. In ultrices velit facilisis, elementum ex at, vulputate risus.
+
+## Equations
+
+$$E = mc^2$$
+$E = mc^2$ is the famous equation defined by Einstein.
+
+# Coding
+```python
+import numpy as np
+
+# This is a non-executable python block
+```
+For a demonstration of a line plot on a polar axis, see @fig-polar.
+
+```{python}
+#| label: fig-polar
+#| fig-cap: "A line plot on a polar axis"
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(
+  subplot_kw = {'projection': 'polar'} 
+)
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```
+
+For a simulation of Rydberg excitation using QuTiP, see @fig-qutip
+```{python}
+#| label: fig-qutip
+#| fig-cap: "Rydberg excitation simulation using QuTiP"
+
+import matplotlib.pyplot as plt
+import numpy as np
+from qutip import *
+
+# Define states
+g = basis(2, 0)  # |g⟩
+r = basis(2, 1)  # |r⟩
+
+# Operators
+sigma_gr = g * r.dag()  # |g⟩⟨r| Lowering operator
+sigma_rg = r * g.dag()  # |r⟩⟨g| Raising operator
+n_r = r * r.dag()       # |r⟩⟨r| Rydberg population
+
+# Rabi frequency (rad/μs)
+Omega = 10.0
+
+# Hamiltonian
+H_single = (Omega / 2) * (sigma_gr + sigma_rg)
+
+# Time evolution
+t_list = np.linspace(0, 2, 100)  # μs
+psi0 = g  # Initial state: |g⟩
+
+result = sesolve(H_single, psi0, t_list, [n_r])
+
+print(f"Rabi frequency Ω = {Omega} rad/μs")
+print(f"Rabi period T = {2*np.pi/Omega:.3f} μs")
+
+pop0 = result.expect[0]
+
+plt.plot(t_list,pop0)
+plt.grid()
+plt.xlabel(r"Time $(\mu s)$")
+plt.ylabel("Rydberg Population")
+plt.show()
+```
+
+Hopefully this helps with understanding Quarto 

@@ -2,16 +2,20 @@
   {
     "objectID": "blogs.html",
     "href": "blogs.html",
-    "title": "Blogs",
+    "title": "Blog",
     "section": "",
-    "text": "Test Post 1\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\nTest Post to understand Quarto\n\n\n\n\n\nMay 22, 2026\n\n\nYKC\n\n\n\n\n\nNo matching items"
+    "text": "Test Blog 1\n\n\n\nnews\n\n\n\nTest Blog Post to understand Quarto\n\n\n\n\n\nOct 25, 2026\n\n\nYKC\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "Blog"
+    ]
   },
   {
     "objectID": "Blog/test_blog1.html",
     "href": "Blog/test_blog1.html",
-    "title": "Test Post 1",
+    "title": "Test Blog 1",
     "section": "",
-    "text": "Atoms and Light Logo"
+    "text": "Atoms and Light Logo\n\n\n\nIntroduction\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium orci nisi, vitae placerat erat faucibus non. Vivamus laoreet porttitor mollis. Praesent eget malesuada lacus, non lobortis sapien. Suspendisse potenti. Phasellus ut accumsan mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget augue a nulla hendrerit blandit. Aenean non enim vel ex feugiat dictum. Duis non nunc ut dui pellentesque rutrum.\nCurabitur nec efficitur mauris. Fusce tincidunt, nisi in luctus sagittis, mi ipsum accumsan est, aliquet ultricies nunc ante id est. Fusce sit amet lectus consequat, semper urna et, porttitor sapien. Nam rhoncus risus vitae est scelerisque, at faucibus enim vulputate. Nulla suscipit pulvinar dui, ut tempus est viverra eget. Aenean non maximus est. Donec nunc tortor, sodales vitae eleifend et, tristique ut eros. Quisque malesuada tellus laoreet turpis egestas, ac rutrum ipsum venenatis. Integer vitae nisl ornare, vehicula lectus et, lobortis lectus. Cras elementum tortor id purus fermentum venenatis. Nunc placerat nec nunc eget viverra. Aliquam feugiat placerat dolor, nec mollis lacus pellentesque eget. Nam rhoncus risus ut libero tristique pulvinar laoreet in magna. Integer eget lorem iaculis, condimentum tellus eu, elementum dolor.\nDonec id mauris non sapien condimentum tempus efficitur sit amet lectus. Pellentesque quis neque in nisi dictum lacinia vitae in diam. Ut vehicula tristique suscipit. Aliquam vel congue nibh. Proin semper nec lorem eget pulvinar. Nullam in egestas ante. Cras eu est leo. Aenean non vehicula ante. Ut scelerisque libero orci, eu aliquet lacus sagittis sit amet. Donec molestie dignissim augue et imperdiet. Maecenas interdum ornare nibh, vitae luctus ex. Donec rutrum vestibulum nulla quis ornare. Aliquam vulputate egestas purus, et consequat massa faucibus id.\nNulla accumsan arcu neque, eget fermentum enim bibendum vel. Nulla at elit risus. Etiam sed mi purus. Vivamus odio massa, ultrices sed pulvinar id, iaculis quis elit. Suspendisse condimentum venenatis massa ac rhoncus. Sed eget maximus sem. Praesent ut interdum nibh, sit amet cursus massa. Etiam nec fermentum elit.\nVestibulum urna lorem, fermentum eget leo vehicula, porttitor egestas turpis. Vivamus et aliquet mauris. Vivamus pretium dapibus lectus id ultricies. Mauris malesuada tortor ullamcorper libero eleifend auctor. Curabitur magna turpis, laoreet at purus in, maximus convallis tortor. Duis gravida ipsum id enim porta, at iaculis massa tincidunt. Maecenas vitae ex ornare nisi laoreet eleifend et a lorem. Suspendisse ultrices facilisis enim at dignissim. Pellentesque blandit felis non risus rutrum, vel facilisis risus viverra. Curabitur est orci, volutpat in convallis vitae, posuere fermentum lorem. In augue ipsum, eleifend ac ligula non, faucibus viverra nisi. Praesent lacinia non nisl quis sollicitudin. In ultrices velit facilisis, elementum ex at, vulputate risus."
   },
   {
     "objectID": "Blog/test_blog1.html#equations",
@@ -25,7 +29,10 @@
     "href": "index.html",
     "title": "Atoms & Light",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "about.html",
@@ -82,5 +89,86 @@
     "title": "Krishna Chaitanya Yellapragada",
     "section": "Leadership and engagement",
     "text": "Leadership and engagement\n\nSquad Lead, Lace Lithography AS, Apr 2026 - Oct 2026\nCommittee Member, Quantum Young Researchers’ Association (QYRA), 2024 – 2025\nSafety Lead, Loh Lab, Centre for Quantum Technologies, 2019 – 2022\nQCamp Coordinator, Centre for Quantum Technologies, 2019\nJunior Science Club Coordinator, University of Hyderabad, 2016 – 2017\nStudent Coordinator, Recent Trends in Quantum Optics Conference, University of Hyderabad, 2016\nSports Secretary, Students’ Union, University of Hyderabad, 2013 – 2014"
+  },
+  {
+    "objectID": "tech_blogs.html",
+    "href": "tech_blogs.html",
+    "title": "Technical Blogs",
+    "section": "",
+    "text": "Test Post 1\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\nTest Post to understand Quarto\n\n\n\n\n\nMay 22, 2026\n\n\nYKC\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Technical_Blogs/test_blog1.html",
+    "href": "Technical_Blogs/test_blog1.html",
+    "title": "Test Post 1",
+    "section": "",
+    "text": "Atoms and Light Logo"
+  },
+  {
+    "objectID": "Technical_Blogs/test_blog1.html#equations",
+    "href": "Technical_Blogs/test_blog1.html#equations",
+    "title": "Test Post 1",
+    "section": "Equations",
+    "text": "Equations\n\\[E = mc^2\\] \\(E = mc^2\\) is the famous equation defined by Einstein."
+  },
+  {
+    "objectID": "tech_notes.html",
+    "href": "tech_notes.html",
+    "title": "Technical Notes",
+    "section": "",
+    "text": "Test Post 1\n\n\n\ncode\n\nanalysis\n\n\n\nTest Post to understand Quarto\n\n\n\n\n\nMay 22, 2026\n\n\nYKC\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "Tech Notes"
+    ]
+  },
+  {
+    "objectID": "Technical_Notes/test_blog1.html",
+    "href": "Technical_Notes/test_blog1.html",
+    "title": "Test Post 1",
+    "section": "",
+    "text": "Atoms and Light Logo"
+  },
+  {
+    "objectID": "Technical_Notes/test_blog1.html#equations",
+    "href": "Technical_Notes/test_blog1.html#equations",
+    "title": "Test Post 1",
+    "section": "Equations",
+    "text": "Equations\n\\[E = mc^2\\] \\(E = mc^2\\) is the famous equation defined by Einstein."
+  },
+  {
+    "objectID": "Technical_Notes/test_note1.html",
+    "href": "Technical_Notes/test_note1.html",
+    "title": "Test Post 1",
+    "section": "",
+    "text": "Atoms and Light Logo"
+  },
+  {
+    "objectID": "Technical_Notes/test_note1.html#equations",
+    "href": "Technical_Notes/test_note1.html#equations",
+    "title": "Test Post 1",
+    "section": "Equations",
+    "text": "Equations\n\\[E = mc^2\\] \\(E = mc^2\\) is the famous equation defined by Einstein."
+  },
+  {
+    "objectID": "AMO_Physics/index.html",
+    "href": "AMO_Physics/index.html",
+    "title": "AMO Physics Notes",
+    "section": "",
+    "text": "This page contains all the notes relating to AMO Physics. Feel free to go in order or jump into a topic from the list below.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "Quantum_Mechanics/index.html",
+    "href": "Quantum_Mechanics/index.html",
+    "title": "Quantum Mechanics Notes",
+    "section": "",
+    "text": "This page contains all the notes relating to Quantum Mechanics. Feel free to go in order or jump into a topic from the list below.",
+    "crumbs": [
+      "Home",
+      "Quantum Mechanics"
+    ]
   }
 ]

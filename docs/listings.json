@@ -4,5 +4,17 @@
     "items": [
       "/Blog/test_blog1.html"
     ]
+  },
+  {
+    "listing": "/tech_blogs.html",
+    "items": [
+      "/Technical_Blogs/test_blog1.html"
+    ]
+  },
+  {
+    "listing": "/tech_notes.html",
+    "items": [
+      "/Technical_Notes/test_note1.html"
+    ]
   }
 ]

@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.atomsandlight.com/blogs.html</loc>
-    <lastmod>2026-10-25T17:37:22.345Z</lastmod>
+    <lastmod>2026-10-25T20:09:40.788Z</lastmod>
   </url>
   <url>
     <loc>https://www.atomsandlight.com/Blog/test_blog1.html</loc>
-    <lastmod>2026-10-25T17:38:19.609Z</lastmod>
+    <lastmod>2026-10-25T20:32:25.939Z</lastmod>
   </url>
   <url>
     <loc>https://www.atomsandlight.com/index.html</loc>
@@ -14,6 +14,34 @@
   </url>
   <url>
     <loc>https://www.atomsandlight.com/about.html</loc>
-    <lastmod>2026-10-25T17:35:57.262Z</lastmod>
+    <lastmod>2026-10-25T20:03:45.787Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/tech_blogs.html</loc>
+    <lastmod>2026-10-25T19:50:56.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/Technical_Blogs/test_blog1.html</loc>
+    <lastmod>2026-10-25T19:51:55.406Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/tech_notes.html</loc>
+    <lastmod>2026-10-25T19:59:13.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/Technical_Notes/test_blog1.html</loc>
+    <lastmod>2026-10-25T19:51:55.406Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/Technical_Notes/test_note1.html</loc>
+    <lastmod>2026-10-25T20:40:29.033Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/AMO_Physics/index.html</loc>
+    <lastmod>2026-10-25T20:42:56.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/Quantum_Mechanics/index.html</loc>
+    <lastmod>2026-10-25T20:41:05.900Z</lastmod>
   </url>
 </urlset>
