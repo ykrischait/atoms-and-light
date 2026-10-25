@@ -1,0 +1,12 @@
+---
+title: "Atoms and Light"
+date: 2026-10-25
+description: "Home Page"
+categories: []
+from: markdown-raw_html-raw_attribute
+execute:
+  enabled: false
+---
+Welcome to Atoms and Light.
+
+[Read my notes](notes.qmd) · [About me](about.qmd)
