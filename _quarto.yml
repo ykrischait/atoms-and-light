@@ -6,15 +6,19 @@ website:
   title: "Atoms and Light"
   site-url: https://www.atomsandlight.com
   favicon: general_images/favicon.svg
+  page-footer:
+    center: "© 2026 Krishna Chaitanya Yellapragada. All rights reserved."
   navbar:
     logo: general_images/site-logo.png
     logo-alt: "Atoms and Light logo"
     left:
+      - href: index.qmd
+        text: Home
       - href: notes.qmd
         text: Notes
       - href: about.qmd
         text: About Me
-
+      
 format:
   html:
     theme:

@@ -1,0 +1,46 @@
+---
+title: "Atoms and Light"
+execute:
+  enabled: false
+listing:
+  - id: featured-notes
+    contents:
+      - notes/the-origin-of-physics.qmd
+      # Add more published .qmd files here
+    type: default
+    sort: false
+    max-items: 5
+    sort-ui: false
+    filter-ui: false
+
+  - id: featured-work
+    contents: featured-work.yml
+    type: grid
+    grid-columns: 3
+    image-height: "180px"
+    sort-ui: false
+    filter-ui: false
+---
+
+Welcome to Atoms and Light. 
+
+This is my personal website where I maintain my CV and notes.
+
+To know more about me, see [About Me](about.qmd)
+
+For my notes, see [Notes](notes.qmd)
+
+## Featured notes
+Construction in Progress 
+
+::: {#featured-notes}
+:::
+
+[Browse all notes](notes.qmd)
+
+## Featured work
+Construction in Progress 
+
+::: {#featured-work}
+:::
+

@@ -1,9 +1,14 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/notes/the-origin-of-physics.html"
+    ]
+  },
+  {
     "listing": "/notes.html",
     "items": [
-      "/notes/the-origin-of-physics.html",
-      "/notes/index.html"
+      "/notes/the-origin-of-physics.html"
     ]
   }
 ]
