@@ -1,0 +1,8 @@
+---
+title: "Blogs"
+listing:
+    contents: Blog
+    categories: true
+    type: default # or default, table, grid etc.
+    image-height: 75px
+---

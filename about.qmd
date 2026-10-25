@@ -1,8 +1,8 @@
 ---
 title: "Krishna Chaitanya Yellapragada"
-image: general_images/KC_DP.jpg
+image: site_images/KC_DP.jpg
 about:
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 14em
   links:
@@ -20,7 +20,7 @@ about:
 
 I am a quantum physicist specialising in quantum technologies built on atomic physics. My experience spans quantum computing, quantum sensing and, most recently, atom lithography. I began as a theorist during my master's, then moved to experiment because I wanted to build the phenomena I had studied and make them useful to the public.
 
-In my free time, I like to play badminton or go for a swim and spend time with my family. 
+In my free time, I like to play badminton or go for a swim and spend time with my family. You can contact me using my contacts provided at the bottom of this page. 
 
 
 ## Experience

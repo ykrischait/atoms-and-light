@@ -1,14 +1,8 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blogs.html",
     "items": [
-      "/notes/the-origin-of-physics.html"
-    ]
-  },
-  {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/the-origin-of-physics.html"
+      "/Blog/test_blog1.html"
     ]
   }
 ]

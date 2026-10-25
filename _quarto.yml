@@ -3,32 +3,38 @@ project:
   output-dir: docs
 
 website:
-  title: "Atoms and Light"
+  title: "Atoms & Light"
   site-url: https://www.atomsandlight.com
-  favicon: general_images/favicon.svg
-  page-footer:
-    center: "© 2026 Krishna Chaitanya Yellapragada. All rights reserved."
+  favicon: site_images/Logo.png
+  page-footer: "© 2026 Krishna Chaitanya Yellapragada <br> All rights reserved"
+  search: 
+    location: navbar
+    type: overlay
   navbar:
-    logo: general_images/site-logo.png
+    logo: site_images/Logo.png
     logo-alt: "Atoms and Light logo"
     left:
       - href: index.qmd
         text: Home
-      - href: notes.qmd
-        text: Notes
+      - href: blogs.qmd
+        text: Blog
       - href: about.qmd
-        text: About Me
-      
+        text: About
+
+
 format:
   html:
     theme:
-      - superhero
-      - brand
+      light: flatly
+      dark: darkly
+    mainfont: "Space Grotesk"
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
     css: styles.css
     toc: true
-    grid:
-      body-width: 1000px
-      margin-width: 200px
 
 
 

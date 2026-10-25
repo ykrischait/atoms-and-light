@@ -4,3 +4,6 @@ main.content li {
   text-align: justify;
   hyphens: auto;
 }
+.navbar-logo {
+  max-height: 50px;
+}

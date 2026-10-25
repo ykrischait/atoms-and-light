@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.atomsandlight.com/notes/the-origin-of-physics.html</loc>
-    <lastmod>2026-10-25T09:30:12.760Z</lastmod>
+    <loc>https://www.atomsandlight.com/blogs.html</loc>
+    <lastmod>2026-10-25T17:37:22.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.atomsandlight.com/Blog/test_blog1.html</loc>
+    <lastmod>2026-10-25T17:38:19.609Z</lastmod>
   </url>
   <url>
     <loc>https://www.atomsandlight.com/index.html</loc>
-    <lastmod>2026-10-25T10:36:20.272Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.atomsandlight.com/notes.html</loc>
-    <lastmod>2026-10-25T09:30:12.760Z</lastmod>
+    <lastmod>2026-10-25T12:40:15.051Z</lastmod>
   </url>
   <url>
     <loc>https://www.atomsandlight.com/about.html</loc>
-    <lastmod>2026-10-25T11:35:06.009Z</lastmod>
+    <lastmod>2026-10-25T17:35:57.262Z</lastmod>
   </url>
 </urlset>

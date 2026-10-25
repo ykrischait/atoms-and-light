@@ -1,52 +1,45 @@
 [
   {
-    "objectID": "notes/the-origin-of-physics.html",
-    "href": "notes/the-origin-of-physics.html",
-    "title": "The Origin of Physics",
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
     "section": "",
-    "text": "Physics began as the study of nature: motion, matter, light, and the patterns of the heavens. Its name comes from the Greek physis, meaning “nature.” Ancient civilizations developed practical knowledge of astronomy, mechanics, and measurement, while Greek thinkers sought explanations based on natural causes. One early example of mathematical physics is Archimedes’ law of the lever:\n\\[\nF_1 d_1 = F_2 d_2,\n\\]\nwhere \\(F_1\\) and \\(F_2\\) are forces and \\(d_1\\) and \\(d_2\\) are their distances from a pivot. This equation expresses a powerful idea: a physical phenomenon can follow a precise mathematical relationship.\nOver centuries, scholars across the Islamic world, Asia, and Europe advanced astronomy, optics, and mechanics. The scientific revolution of the sixteenth and seventeenth centuries brought mathematical models, systematic observation, and controlled experiments into closer partnership. Galileo’s investigations of falling bodies helped establish that, when air resistance is negligible, an object released from rest falls a distance\n\\[\ns = \\frac{1}{2}gt^2,\n\\]\nwhere \\(g\\) is gravitational acceleration and \\(t\\) is elapsed time. Nature increasingly became something whose behavior could be measured and tested against predictions.\nIsaac Newton unified terrestrial and celestial motion through his laws of motion and universal gravitation. In modern notation, two central relationships are\n\\[\n\\mathbf{F}_{\\text{net}} = m\\mathbf{a},\n\\qquad\nF_{\\text{gravity}} = G\\frac{m_1m_2}{r^2}.\n\\]\nThe same framework could explain a falling apple and the Moon’s orbit. This unity became a defining ambition of physics: to explain many apparently different phenomena through a small set of general laws.\nPhysics later expanded through thermodynamics, electromagnetism, relativity, and quantum mechanics. Equations such as Einstein’s\n\\[\nE = mc^2\n\\]\nrevealed connections that earlier thinkers could scarcely have imagined—in this case, between mass and energy. From its origins in natural philosophy, physics developed into a discipline in which mathematical explanations must continually answer to observation and experiment."
+    "text": "Test Post 1\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\nTest Post to understand Quarto\n\n\n\n\n\nMay 22, 2026\n\n\nYKC\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Blog/test_blog1.html",
+    "href": "Blog/test_blog1.html",
+    "title": "Test Post 1",
+    "section": "",
+    "text": "Atoms and Light Logo"
+  },
+  {
+    "objectID": "Blog/test_blog1.html#equations",
+    "href": "Blog/test_blog1.html#equations",
+    "title": "Test Post 1",
+    "section": "Equations",
+    "text": "Equations\n\\[E = mc^2\\] \\(E = mc^2\\) is the famous equation defined by Einstein."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Atoms and Light",
+    "title": "Atoms & Light",
     "section": "",
-    "text": "Welcome to Atoms and Light.\nThis is my personal website where I maintain my CV and notes.\nTo know more about me, see About Me\nFor my notes, see Notes"
-  },
-  {
-    "objectID": "index.html#featured-notes",
-    "href": "index.html#featured-notes",
-    "title": "Atoms and Light",
-    "section": "Featured notes",
-    "text": "Featured notes\nConstruction in Progress\n\n\n\n\n\n\n\n\n\n\nThe Origin of Physics\n\n\nTest publish\n\n\n\n\n\nOct 25, 2026\n\n\n\n\n\nNo matching items\n\nBrowse all notes"
-  },
-  {
-    "objectID": "index.html#featured-work",
-    "href": "index.html#featured-work",
-    "title": "Atoms and Light",
-    "section": "Featured work",
-    "text": "Featured work\nConstruction in Progress\n\n\n\n\n\n\n\n\n\n\nAbout Me\n\n\nQuantum Physicist with Expertise in Neutral Atoms\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
-    "section": "",
-    "text": "The Origin of Physics\n\n\n\n\n\nTest publish\n\n\n\n\n\nOct 25, 2026\n\n\n\n\n\nNo matching items"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Krishna Chaitanya Yellapragada",
     "section": "",
-    "text": "I am a quantum physicist specialising in quantum technologies built on atomic physics. My experience spans quantum computing, quantum sensing and, most recently, atom lithography. I began as a theorist during my master’s, then moved to experiment because I wanted to build the phenomena I had studied and make them useful to the public.\nIn my free time, I like to play badminton or go for a swim and spend time with my family."
+    "text": "I am a quantum physicist specialising in quantum technologies built on atomic physics. My experience spans quantum computing, quantum sensing and, most recently, atom lithography. I began as a theorist during my master’s, then moved to experiment because I wanted to build the phenomena I had studied and make them useful to the public.\nIn my free time, I like to play badminton or go for a swim and spend time with my family. You can contact me using my contacts provided at the bottom of this page."
   },
   {
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
     "title": "Krishna Chaitanya Yellapragada",
     "section": "",
-    "text": "I am a quantum physicist specialising in quantum technologies built on atomic physics. My experience spans quantum computing, quantum sensing and, most recently, atom lithography. I began as a theorist during my master’s, then moved to experiment because I wanted to build the phenomena I had studied and make them useful to the public.\nIn my free time, I like to play badminton or go for a swim and spend time with my family."
+    "text": "I am a quantum physicist specialising in quantum technologies built on atomic physics. My experience spans quantum computing, quantum sensing and, most recently, atom lithography. I began as a theorist during my master’s, then moved to experiment because I wanted to build the phenomena I had studied and make them useful to the public.\nIn my free time, I like to play badminton or go for a swim and spend time with my family. You can contact me using my contacts provided at the bottom of this page."
   },
   {
     "objectID": "about.html#experience",
